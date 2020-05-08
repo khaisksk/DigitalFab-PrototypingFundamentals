@@ -19,5 +19,5 @@
 - [Dean Tan](https://deantanwj.github.io/DFAB-/)
 - [Muzaffar Ilhan](https://muzaffar2020.github.io/My-website/)
 - [Chen Jiacheng ??]()
-- [Muhammad Khairin ??]()
+- [Muhammad Khairin ??](https://khaisksk.github.io/dfab/FAB.html)
 - [Bryan Tan](https://bryanpotato.github.io/Digital_Fabrication_Prototype_fundamentals/index.html)
